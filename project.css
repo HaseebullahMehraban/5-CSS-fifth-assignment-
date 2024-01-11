@@ -1,0 +1,48 @@
+.container{
+    border: 2px solid red;
+    width: 1200px; 
+    height: 500px;
+    margin: 0 auto;
+}
+.header{
+    background-color: blue;
+    padding: 20px 30px;  
+}
+.nav ul li{
+    display: inline;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.container{
+    background-image: url(472017180603.jpg);
+}
+.content{
+    text-align: center;
+    height: -30px;
+    position: bottom
+    ;
+}
+.footer{
+    background-color: blue;
+    display: inline;
+    position: absolute;
+    margin: 0;
+    right:0;
+    left: 0;
+    bottom: 0;
+    height: 10;
+    width: -5;
+
+}
+.footer ul li{
+    display: inline;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+.footer 
